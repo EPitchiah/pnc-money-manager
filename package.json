@@ -1,0 +1,11 @@
+{
+  "name": "tdp-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "author": "",
+  "license": "ISC"
+}
